@@ -1,4 +1,3 @@
-<div>
 
 <table style="width:100%;height: auto;">
 
@@ -191,4 +190,3 @@ _discard the changes from top of stash stack_
 
 </table>
 
-</div>
