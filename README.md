@@ -1,12 +1,14 @@
 
 <table style="width:100%;height: auto;">
-
+<thead>
   <tr colspan="2">
   <h1 style="text-align: center;"> GIT CHEAT SHEET </h1>
   <p>
 Git is the free and open source distributed version control system that's responsible for everything GitHub related that happens locally on your computer. This cheat sheet features the most important and commonly used Git commands for easy reference.
 </p>
     </tr>
+  </thead>
+  <tbody>
   <tr style="width:50%;height: auto;position: absolute;left:0">
   <td>
 
@@ -187,6 +189,6 @@ _discard the changes from top of stash stack_
 
 </td>
   </tr>
-
+</tbody>
 </table>
 
